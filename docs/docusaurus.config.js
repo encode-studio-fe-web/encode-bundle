@@ -8,10 +8,10 @@ const config = {
   tagline: '印客学院定制构建工具，基于 esbuild 实现',
   favicon: 'img/avatar.png',
 
-  url: 'https://encode-studio-fe.github.io',
+  url: 'https://encode-studio-fe-web.github.io',
   baseUrl: '/encode-bundle/',
 
-  organizationName: 'encode-studio-fe',
+  organizationName: 'encode-studio-fe-web',
   projectName: 'encode-bundle',
 
   onBrokenLinks: 'throw',

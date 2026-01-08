@@ -57,7 +57,7 @@ const config = {
             label: '完整功能',
           },
           {
-            href: 'https://github.com/encode-studio-fe/encode-bundle',
+            href: 'https://github.com/encode-studio-fe-web/encode-bundle',
             label: 'GitHub',
             position: 'right',
           },
@@ -84,7 +84,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/encode-studio-fe/encode-bundle',
+                href: 'https://github.com/encode-studio-fe-web/encode-bundle',
               },
             ],
           },

@@ -46,10 +46,10 @@
   "definitions": {
     "options": {
       "type": "object",
-      "markdownDescription": "Configuration options for [encode-bundle](https://github.com/encode-studio-fe/encode-bundle)",
+      "markdownDescription": "Configuration options for [encode-bundle](https://github.com/encode-studio-fe-web/encode-bundle)",
       "properties": {
         "entry": {
-          "markdownDescription": "Files that each serve as an input to the bundling algorithm.\n\n---\nReferences:\n- [Entry Points](https://esbuild.github.io/api/#entry-points) - esbuild\n - [Multiple Entrypoints](https://github.com/encode-studio-fe/encode-bundle) - encode-bundle",
+          "markdownDescription": "Files that each serve as an input to the bundling algorithm.\n\n---\nReferences:\n- [Entry Points](https://esbuild.github.io/api/#entry-points) - esbuild\n - [Multiple Entrypoints](https://github.com/encode-studio-fe-web/encode-bundle) - encode-bundle",
           "oneOf": [
             {
               "type": "array",

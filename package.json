@@ -16,13 +16,13 @@
   ],
   "author": "chenghuai",
   "license": "MIT",
-  "homepage": "https://github.com/encode-studio-fe/encode-bundle#readme",
+  "homepage": "https://github.com/encode-studio-fe-web/encode-bundle#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/encode-bundle.git"
+    "url": "git+https://github.com/encode-studio-fe-web/encode-bundle.git"
   },
   "bugs": {
-    "url": "https://github.com/encode-studio-fe/encode-bundle/issues"
+    "url": "https://github.com/encode-studio-fe-web/encode-bundle/issues"
   },
   "keywords": [
     "encode",
